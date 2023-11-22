@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e37b4ee-ce61-4a27-8839-30eae7e7290f" name="Changes" comment="🔥 Remove Read ME" />
+    <list default="true" id="1e37b4ee-ce61-4a27-8839-30eae7e7290f" name="Changes" comment="✨ Copyright">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,12 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700687804817</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="✨ Copyright">
+      <option name="closed" value="true" />
+      <created>1700687911669</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700687911669</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" Begin a project" />
     <MESSAGE value=" Remove Read ME" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Remove Read ME" />
+    <MESSAGE value="✨ Copyright" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ Copyright" />
   </component>
 </project>
