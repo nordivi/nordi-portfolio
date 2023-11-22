@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e37b4ee-ce61-4a27-8839-30eae7e7290f" name="Changes" comment="✨ Change index.html folder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e37b4ee-ce61-4a27-8839-30eae7e7290f" name="Changes" comment="✨ Change folders" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,15 +24,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/victo/PycharmProjects/nordi-portfolio/public"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\PycharmProjects\nordi-portfolio\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\PycharmProjects\nordi-portfolio\public" />
       <recent name="C:\Users\victo\PycharmProjects\nordi-portfolio" />
     </key>
   </component>
@@ -102,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700688411864</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="✨ Change folders">
+      <option name="closed" value="true" />
+      <created>1700689278543</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700689278543</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -110,6 +121,7 @@
     <MESSAGE value=" Remove Read ME" />
     <MESSAGE value="✨ Copyright" />
     <MESSAGE value="✨ Change index.html folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="✨ Change index.html folder" />
+    <MESSAGE value="✨ Change folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ Change folders" />
   </component>
 </project>
