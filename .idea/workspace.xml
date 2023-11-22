@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e37b4ee-ce61-4a27-8839-30eae7e7290f" name="Changes" comment="✨ Copyright">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1e37b4ee-ce61-4a27-8839-30eae7e7290f" name="Changes" comment="✨ Change index.html folder">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,11 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\PycharmProjects\nordi-portfolio" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="nordi-portfolio" />
@@ -89,13 +94,22 @@
       <option name="project" value="LOCAL" />
       <updated>1700687911669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="✨ Change index.html folder">
+      <option name="closed" value="true" />
+      <created>1700688411864</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700688411864</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" Begin a project" />
     <MESSAGE value=" Remove Read ME" />
     <MESSAGE value="✨ Copyright" />
-    <option name="LAST_COMMIT_MESSAGE" value="✨ Copyright" />
+    <MESSAGE value="✨ Change index.html folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ Change index.html folder" />
   </component>
 </project>
