@@ -370,6 +370,46 @@ export const projects = [
   },
   {
     id: 3,
+    title: "Weather App",
+    date: "Aug 2023",
+    description:
+      "Weather APP using Tkinter and API.",
+    image:
+      "https://i.ibb.co/S78RHVc/imdb-clone.png",
+    tags: ["Python", "API", "Tkinter"],
+    category: "backend",
+    github: "https://github.com/nordivi/weather-app",
+    member: [
+      {
+        name: "Victor Nordi",
+        img: "https://avatars.githubusercontent.com/u/64192862?v=4",
+        linkedin: "https://www.linkedin.com/in/victor-hugo-werneck-nordi-65756019a/",
+        github: "https://github.com/nordivi",
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: "English to Deutsch Translator",
+    date: "Mar 2023",
+    description:
+      "Python interface to translate English text to Deutsch (changeable).",
+    image:
+      "https://i.ibb.co/Y24cLRq/translator-final.png",
+    tags: ["Python"],
+    category: "backend",
+    github: "https://github.com/nordivi/translator",
+    member: [
+      {
+        name: "Victor Nordi",
+        img: "https://avatars.githubusercontent.com/u/64192862?v=4",
+        linkedin: "https://www.linkedin.com/in/victor-hugo-werneck-nordi-65756019a/",
+        github: "https://github.com/nordivi",
+      },
+    ],
+  },
+  {
+    id: 5,
     title: "IMBD Clone",
     date: "Jan 2023",
     description:
