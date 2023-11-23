@@ -368,6 +368,26 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 3,
+    title: "IMBD Clone",
+    date: "Jan 2023",
+    description:
+      "Complex IMDB Clone.",
+    image:
+      "https://i.ibb.co/S78RHVc/imdb-clone.png",
+    tags: ["React", "CSS", "JavaScript", "HTML"],
+    category: "frontend",
+    github: "https://github.com/nordivi/imdb-clone",
+    member: [
+      {
+        name: "Victor Nordi",
+        img: "https://avatars.githubusercontent.com/u/64192862?v=4",
+        linkedin: "https://www.linkedin.com/in/victor-hugo-werneck-nordi-65756019a/",
+        github: "https://github.com/nordivi",
+      },
+    ],
+  },
 ];
 
 export const TimeLineData = [
