@@ -348,6 +348,26 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 2,
+    title: "Tic Tac Toe",
+    date: "Aug 2023",
+    description:
+      "Basic frontend tic-tac-toe game.",
+    image:
+      "https://i.ibb.co/m4Wcprn/tictactoe.png",
+    tags: ["CSS", "JavaScript", "HTML"],
+    category: "frontend",
+    github: "https://github.com/nordivi/tic-tac-toe",
+    member: [
+      {
+        name: "Victor Nordi",
+        img: "https://avatars.githubusercontent.com/u/64192862?v=4",
+        linkedin: "https://www.linkedin.com/in/victor-hugo-werneck-nordi-65756019a/",
+        github: "https://github.com/nordivi",
+      },
+    ],
+  },
 ];
 
 export const TimeLineData = [
