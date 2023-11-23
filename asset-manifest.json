@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nordi-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/nordi-portfolio/static/js/main.3f4eaa02.js",
+    "main.js": "/nordi-portfolio/static/js/main.ae4bb334.js",
     "static/media/pp_linkedin.jpg": "/nordi-portfolio/static/media/pp_linkedin.1a80527c8f6d28def27b.jpg",
     "index.html": "/nordi-portfolio/index.html",
     "main.bf538fe7.css.map": "/nordi-portfolio/static/css/main.bf538fe7.css.map",
-    "main.3f4eaa02.js.map": "/nordi-portfolio/static/js/main.3f4eaa02.js.map"
+    "main.ae4bb334.js.map": "/nordi-portfolio/static/js/main.ae4bb334.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.3f4eaa02.js"
+    "static/js/main.ae4bb334.js"
   ]
 }
