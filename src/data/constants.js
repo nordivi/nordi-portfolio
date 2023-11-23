@@ -375,7 +375,7 @@ export const projects = [
     description:
       "Weather APP using Tkinter and API.",
     image:
-      "https://i.ibb.co/S78RHVc/imdb-clone.png",
+      "https://i.ibb.co/ZH0K1fk/weather-app.png",
     tags: ["Python", "API", "Tkinter"],
     category: "backend",
     github: "https://github.com/nordivi/weather-app",
