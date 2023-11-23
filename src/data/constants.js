@@ -328,6 +328,26 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 1,
+    title: "Expense Tracker",
+    date: "Nov 2023",
+    description:
+      "Website to track expenses using MongoDB database.",
+    image:
+      "https://i.ibb.co/thKxjmQ/expense-tracker-1.png",
+    tags: ["React JS", "MongoDB", "JavaScript", "HTML"],
+    category: "frontend",
+    github: "https://github.com/nordivi/expense-tracker",
+    member: [
+      {
+        name: "Victor Nordi",
+        img: "https://avatars.githubusercontent.com/u/64192862?v=4",
+        linkedin: "https://www.linkedin.com/in/victor-hugo-werneck-nordi-65756019a/",
+        github: "https://github.com/nordivi",
+      },
+    ],
+  },
 ];
 
 export const TimeLineData = [
