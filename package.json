@@ -1,7 +1,7 @@
 {
   "name": "nordi-portfolio",
   "version": "0.1.0",
-  "homepage": "https://nordivi.github.io",
+  "homepage": "https://nordivi.github.io/nordi-portfolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
