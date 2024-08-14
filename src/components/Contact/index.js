@@ -125,7 +125,6 @@ const ContactButton = styled.button`
 
 const Contact = () => {
 
-  //hooks
   const [open, setOpen] = React.useState(false);
   const form = useRef();
 
@@ -133,7 +132,7 @@ const Contact = () => {
 
     setOpen(true)
     const templateParams = {
-      to_email: 'victorw.nordi@icloud.com', // Replace with recipient's email address
+      to_email: 'victorw.nordi@icloud.com',
       from_email: email,
       from_name: name,
       subject: subject,
@@ -142,7 +141,7 @@ const Contact = () => {
     };
   
     emailjs.send(
-      'service_2opc1la',
+      'service_t3xu4h3',
       'template_uweyx8d',
       templateParams,
       'u2OyZsuJdWOUmPiCt'
@@ -178,7 +177,7 @@ const Contact = () => {
           <ContactInput placeholder="Your Name" name="from_name" value={name} onChange = {(e) => setName(e.target.value)}/>
           <ContactInput placeholder="Subject" name="subject" value={subject} onChange = {(e) => setSubject(e.target.value)}/>
           <ContactInputMessage placeholder="Message" rows="4" name="message"value={message} onChange = {(e) => setMessage(e.target.value)} />
-          <ContactButton onClick={() => handleSubmit(email, name, subject, message)}>Send</ContactButton>
+          <ContactButton disabled onClick={() => handleSubmit(email, name, subject, message)}>Mail Key expired 😔</ContactButton>
         </ContactForm>
         
         <Snackbar
