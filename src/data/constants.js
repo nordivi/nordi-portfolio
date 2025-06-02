@@ -11,7 +11,6 @@ export const Bio = {
   resume:
     "https://drive.google.com/drive/folders/1nNtRPaJZ8SdTCwuwviam7cTPAHrO3JYJ?usp=sharing",
   linkedin: "https://www.linkedin.com/in/victor-hugo-werneck-nordi-65756019a/",
-  insta: 'https://www.instagram.com/wtfwerneck/'
 };
 
 export const courses = [
@@ -240,7 +239,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://cdn.prod.website-files.com/64884fb058342c1b8717f790/64f18cc4384c0eb5977b839a_STEALTHMODE.jpeg",
-    role: "Full Stack Developer - Junior",
+    role: "Full Stack Developer",
     company: "Paggo",
     date: "Apr 2024 - Now",
 desc: "Experienced Fullstack Developer specializing in TypeScript for both frontend and backend development, proficient in React. I have extensive experience utilizing a variety of AWS services, employing the sst tool for efficient project deployment and organization, as well as managing version control through GitLab. My expertise includes developing and monitoring APIs, using Prisma for database queries. I adopt an approach focused on building modern applications, ensuring high performance and robustness through solid typing, and implementing best code practices with eslint. Additionally, I have developed and integrated Lambdas in AWS, which connect with APIs, SQS, or Cron, performing crucial routines for product monitoring and continuous maintenance. I used Node.js as an integral part of this architecture, leveraging its efficiency and scalability for server-side tasks. I have a deep understanding of agile methodologies and continuous delivery, demonstrated through effective task management in Clickup and merge request handling in GitLab. I am well-versed in repository synchronization practices and conflict resolution, ensuring smooth development processes.",
@@ -330,14 +329,6 @@ desc: "Experienced Fullstack Developer specializing in TypeScript for both front
 export const education = [
   {
     id: 0,
-    img: "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/08/fatec-identidade.jpg",
-    school: "College of Technology of Votorantim",
-    date: "Fev 2024 - Dec 2026",
-    desc: "Specialized technology college focused on practical learning of multiplatform software development. With a curriculum rich in specifications and skills necessary for the job market, my goal is to enhance my learning and become a software developer with enhanced capabilities.",
-    degree: "Software Development",
-  },
-  {
-    id: 1,
     img: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logomarca_UFSCAR.png",
     school: "Federal University of São Carlos",
     date: "Mar 2018 - Oct 2023",
